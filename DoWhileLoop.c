@@ -1,4 +1,4 @@
-#include<stdio.h>   //Header file  //header file
+#include<stdio.h>   //Header file  
 int main()         //function of the main body
 {
 	int num=1;	//initializing the variable
