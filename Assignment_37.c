@@ -4,7 +4,7 @@ int main()        //function of the main body
 {
 	char name[50];  //selecting data type and variable declaration caple of holding 50 values
 	int marks,i,n;  //selecting data type and variable declaration
-	printf("Enter number of students: ");  //printf function calling 
+	printf("Enter name  of students: ");  //printf function calling 
 	scanf("%d",&n); 						//scanf function used for taking input from iser
 	FILE *fptr;                            //file name and pointer variable declaration
 	fptr=(fopen("C:\\student.txt","w"));  //fopen is used to open any csv file and read data inside it
