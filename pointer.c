@@ -1,10 +1,10 @@
- #include <stdio.h>
+ #include <stdio.h>    //Header file
 
-int main()
+int main()            //function of the mai body
 {
-    int a;  
-    a = 10;
-    int *p = &a;     // declaring and initializing the pointer
+    int a;           //selecting data type and variable declaration
+    a = 10;          
+    int *p = &a;     //declaring and initializing the pointer
 
     //prints the value of 'a'
     printf("%d\n", *p);  
