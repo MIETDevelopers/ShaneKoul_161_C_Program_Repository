@@ -1,5 +1,5 @@
 
-#include<stdio.h>
+#include<stdio.h> //Input output header file
  
 // function to return sum of elements
 // in an array of size n

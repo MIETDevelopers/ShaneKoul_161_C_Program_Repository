@@ -1,5 +1,6 @@
- #include <stdio.h>
-struct student {
+ #include <stdio.h>  //Header file
+struct student      //Structure data type and variable declaration
+ {
    char name[50];
    int age;
 };
